@@ -53,4 +53,4 @@ As conclusion, looking at the scores to validate the models used for this data, 
 
 Secondly, I think the model of Logistic Regression in unscaled data was not as good as the previous one with a Training Data Score: 0.6959770114942528 and Testing Data Score: 0.5603998298596342 the accuracy is just 56% and the values are far apart.
 
-Lastly, I can notice that the scores for both of the Random Forest models (scaled and unscaled) ended up being almost the same with Training Score: 1.0 and Testing Score: 0.6193109315185028, which probably means that the feature selection was equal in both models.
+Lastly, I can notice that the scores for both of the Random Forest models (scaled and unscaled) ended up being almost the same with Training Score: 1.0 and Testing Score: 0.6193109315185028, which probably means that the feature selection was equal in both models and the models are very consistent with the whole dataset.
