@@ -41,7 +41,9 @@ Fit and score the LogisticRegression and RandomForestClassifier models on the sc
 
 ## Prediction
 
-My prediction on which model will perform better on the unscaled data and the scaled data between Logistic Regression or Random Forest was close to a 50-50 decision. The main reason for this is, because most of the machine learning algorithms are sensitive and perform better with feature scaling. For example, Logistic Regression is used for the binary categorization of data and uses gradient descent as an optimization technique require data to be scaled. In the other hand, Random Forests are fairly insensitive to the scale of the features, because it takes the best features for our models and algorithms, by taking these insights from the data, and without the need to use expert knowledge or other kinds of external information.
+My prediction on which model will perform better on the unscaled data and the scaled data between Logistic Regression or Random Forest was close to a 50-50 decision. The main reason for this is, because most of the machine learning algorithms are sensitive and perform better with feature scaling. 
+
+For example, Logistic Regression is used for the binary categorization of data and uses gradient descent as an optimization technique require data to be scaled. In the other hand, Random Forests are fairly insensitive to the scale of the features, because it takes the best features for our models and algorithms, by taking these insights from the data, and without the need to use expert knowledge or other kinds of external information.
 
 So, for the previous reasons my prediction for which model will perform better for unscale data will be Random Forest, and for the scaled data my prediction is Logistic Regression model.
 
